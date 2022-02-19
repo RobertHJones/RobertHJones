@@ -1,4 +1,5 @@
 ![Header](https://raw.githubusercontent.com/RobertHJones/RobertHJones/blob/main/Golden.jpg "Header")
+![alt text](https://github.com/RobertHJones/RobertHJones/blob/main/Golden.jpg?raw=true)
 https://github.com/RobertHJones/RobertHJones/blob/main/Golden.jpg?
 
 ### Hi there 👋
