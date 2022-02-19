@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/RobertHJones/<OWNER>/<OWNER>/golden.jpg "Header")
+![Header](https://raw.githubusercontent.com/RobertHJones/RobertHJones/golden.jpg "Header")
 
 ### Hi there 👋
 
