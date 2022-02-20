@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 Include personal portfolio once it's more finished
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My name is so common there's a golf tournament in USA only open to people called Robert Jones
+- ⚡ Fun fact: My name is so common there's a [golf tournament] (https://en.wikipedia.org/wiki/Bobby_Jones_Open) in USA only open to people called Robert Jones
 -->
