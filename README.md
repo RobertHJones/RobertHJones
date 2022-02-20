@@ -8,7 +8,7 @@
 
 #### 📫 How to reach me: You can reach me on LinkedIn - https://www.linkedin.com/in/robert-jones-711bb489/ or at RobertHuwJones@outlook.com
 
-#### ⚡ Fun fact: My name is so common there's a golf tournament in USA only open to people called Robert Jones.
+#### ⚡ Fun fact: My name is so common there's a golf tournament in the USA only open to people called Robert Jones.
 
 <!--
 **RobertHJones/RobertHJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
