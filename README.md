@@ -8,16 +8,18 @@
 
 #### 📫 How to reach me: You can reach me on LinkedIn - https://www.linkedin.com/in/robert-jones-711bb489/ or at RobertHuwJones@outlook.com
 
+#### ⚡ Fun fact: My name is so common there's a golf tournament in USA only open to people called Robert Jones
+
 <!--
 **RobertHJones/RobertHJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Python, TypeScript, Docker and SuperTest.
+- 🌱 I’m currently learning more about Python, TypeScript, Docker, SuperTest and AWS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 Include personal portfolio once it's more finished
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My name is so common there's a golf tournament in USA only open to people called Robert Jones
 -->
