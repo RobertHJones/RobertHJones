@@ -11,7 +11,7 @@
 
 #### ⚡ Fun fact: My name is so common there's a [golf tournament](https://en.wikipedia.org/wiki/Bobby_Jones_Open) in the USA only open to people called Robert Jones.
 
-![](URL:https://www.codewars.com/users/Radar%20Rush/badges/micro)
+![](URL:https://www.codewars.com/users/Radar%20Rush/badges/large)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Robert-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
 
