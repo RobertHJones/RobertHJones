@@ -19,7 +19,7 @@
 
 #### ⚡ Fun fact: My name is so common there's a [golf tournament](https://en.wikipedia.org/wiki/Bobby_Jones_Open) in the USA only open to people called Robert Jones.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertHJones&layout=compact)](https://github.com/RobertHJones/github-readme-stats)
 
 [![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertHJones)](https://github.com/RobertHJones/github-readme-stats)
 
