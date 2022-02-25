@@ -20,6 +20,8 @@
 
 ![](https://www.codewars.com/users/Radar%20Rush/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-Robert-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RobertHJones)
+
 <!--
 **RobertHJones/RobertHJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
