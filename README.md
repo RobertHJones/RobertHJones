@@ -20,7 +20,7 @@
 
 ![](https://www.codewars.com/users/Radar%20Rush/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-Robert-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
 
-[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/RobertHJones/github-readme-stats)
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertHJones)](https://github.com/RobertHJones/github-readme-stats)
 
 <!--
 **RobertHJones/RobertHJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
