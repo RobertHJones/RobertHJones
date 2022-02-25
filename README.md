@@ -9,6 +9,8 @@
 
 #### 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/robert-jones-711bb489/) or at RobertHuwJones@outlook.com
 
+[![Linkedin Badge](https://img.shields.io/badge/-Kazeem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
+
 #### ⚡ Fun fact: My name is so common there's a [golf tournament](https://en.wikipedia.org/wiki/Bobby_Jones_Open) in the USA only open to people called Robert Jones.
 
 ![](https://www.codewars.com/users/Radar%20Rush/badges/large)
