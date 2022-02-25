@@ -3,7 +3,7 @@
 
 ### Hi there I'm Rob 👋 I'm a full stack Software Engineer specializing in both front end and back end web development.
 
-(https://www.codewars.com/users/Radar%20Rush/badges/large)
+![](https://www.codewars.com/users/Radar%20Rush/badges/large)
 
 #### 🔭 I’m currently working on my final project within the School of Code Bootcamp, and preparing to get my first job in tech!
 
