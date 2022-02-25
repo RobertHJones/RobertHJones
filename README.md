@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/RobertHJones/RobertHJones/blob/main/Golden.jpg?raw=true)
 
-### Hi there I'm Rob 👋 I'm a full stack Software Engineer specializing in both front end and back end web development.
+### Hi there I'm Rob 👋 I'm a full stack Software Engineer specializing in both frontend and backend web development.
 
 
 
