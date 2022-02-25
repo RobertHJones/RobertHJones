@@ -7,13 +7,12 @@
 
 #### 🔭 I’m currently working on my final project within the School of Code Bootcamp, and preparing to get my first job in tech!
 
-#### 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/robert-jones-711bb489/) or at RobertHuwJones@outlook.com
-
-[![Linkedin Badge](https://img.shields.io/badge/-Robert-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
+#### 📫 How to reach me: You can reach me at RobertHuwJones@outlook.com
 
 #### ⚡ Fun fact: My name is so common there's a [golf tournament](https://en.wikipedia.org/wiki/Bobby_Jones_Open) in the USA only open to people called Robert Jones.
 
 ![](https://www.codewars.com/users/Radar%20Rush/badges/large)
+[![Linkedin Badge](https://img.shields.io/badge/-Robert-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-jones-711bb489/)
 
 <!--
 **RobertHJones/RobertHJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
