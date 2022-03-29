@@ -12,7 +12,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[![SQL Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🔭 I’m currently working on my final project within the School of Code Bootcamp, and preparing to get my first job in tech!
 
